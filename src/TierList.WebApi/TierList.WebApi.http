@@ -1,0 +1,6 @@
+@TierList.WebApi_HostAddress = http://localhost:5194
+
+GET {{TierList.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

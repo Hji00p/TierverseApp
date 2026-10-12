@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TierList.Application/TierList.Application.csproj" />
+    <Project Path="src/TierList.Domain/TierList.Domain.csproj" />
+    <Project Path="src/TierList.Infrastructure/TierList.Infrastructure.csproj" />
+    <Project Path="src/TierList.WebApi/TierList.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TierList.Application.Tests/TierList.Application.Tests.csproj" />
+    <Project Path="tests/TierList.Domain.Tests/TierList.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
